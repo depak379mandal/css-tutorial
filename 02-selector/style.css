@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+h2 {
+  color: red;
+}
+
+nav[tabindex="1"],
+h2 {
+  padding: 10px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  border: solid 3px gray;
+}
+
+#nav-01 {
+  background-color: red;
+}
+
+div span {
+  background-color: red;
+}

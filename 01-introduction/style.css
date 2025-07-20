@@ -1,0 +1,12 @@
+p {
+  background-color: lightblue;
+  border: blue solid 1px;
+  padding: 10px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
+.header {
+  background-color: red;
+}
